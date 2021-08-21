@@ -1,0 +1,13 @@
+{
+  "name": "com.bennykok.timeline-action",
+  "displayName": "Timeline Action",
+  "version": "1.0.0",
+  "description": "Timeline Action",
+  "dependencies": {
+    "com.unity.settings-manager": "1.0.3"
+  },
+  "author": {
+    "name": "BennyKok",
+    "url": "https://github.com/BennyKok"
+  }
+}
